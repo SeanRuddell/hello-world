@@ -1,3 +1,3 @@
 # hello-world
 
-Just here learning to code ;))))))
+This is our readme for our first project
